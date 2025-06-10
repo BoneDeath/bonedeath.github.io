@@ -1,13 +1,16 @@
 # Site settings
 name: M Hasanuddin
-title: M Hasanuddin | Web Developer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+title: M Hasanuddin | Front-End Developer & Technical Lead
+description: Front-end engineer focused on Vue.js, Flutter, and clean UI/UX. Passionate about building scalable web/mobile apps and exploring AI & ML.
 url: https://bonedeath.github.io/
-baseurl: 'https://bonedeath.github.io/'
+baseurl: ''
+lang: en
+timezone: Asia/Jakarta
 email: mhasannudin300@gmail.com
 cover: https://bonedeath.github.io/img/og.png
 logo: https://bonedeath.github.io/img/emojis/technologist.png
 resume: https://bonedeath.github.io/resume.pdf
+
 social:
   - title: email
     url: mailto:mhasannudin300@gmail.com
@@ -34,6 +37,7 @@ keep_files:
   - '.git'
   - '.gitignore'
 
+# Optional plugins (disable if not supported by GitHub Pages)
 plugins_dir:
   - jekyll-minifier
   - jekyll-sitemap
