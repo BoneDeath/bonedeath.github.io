@@ -1,28 +1,29 @@
 languages:
-  - item: JavaScript (ES6+)
+  - item: JavaScript (ES6)
   - item: TypeScript
-  - item: Dart
+  - item: HTML
   - item: PHP
-  - item: HTML & CSS/Sass
-  - item: SQL
+  - item: Dart
+  - item: CSS/Sass
+  - item: MYSQL MongoDB
 
-frameworks_and_libraries:
-  - item: Vue (Vue 2 & 3)
+frameworks:
+  - item: Vue Nuxt Vite
   - item: Flutter
-  - item: Node.js (Express)
   - item: Tailwind CSS
-  - item: WordPress (Custom Theme & Plugin)
+  - item: Node.js Express
+  - item: WordPress Custom Theme & Plugin
 
-tools_and_platforms:
-  - item: Git & GitHub
+tools:
+  - item: Git & Github
   - item: Postman
   - item: MongoDB
-  - item: Google Cloud Platform (Storage, APIs)
-  - item: Docker (Basic knowledge)
-  - item: CI/CD (GitHub Actions, Vercel)
+  - item: Docker Basic knowledge
+  - item: Google Cloud Platform Storage & APIs
+  - item: ChatGPT
 
-design_and_prototyping:
+design:
   - item: Figma
-  - item: InVision
-  - item: Wireframing & Prototyping
+  - item: Prototyping
+  - item: Wireframing
   - item: User Testing
