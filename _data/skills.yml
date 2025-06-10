@@ -12,14 +12,14 @@ frameworks:
   - item: Flutter
   - item: Tailwind CSS
   - item: Node.js Express
-  - item: WordPress Custom Theme & Plugin
+  - item: WordPress
 
 tools:
   - item: Git & Github
   - item: Postman
   - item: MongoDB
   - item: Docker Basic knowledge
-  - item: Google Cloud Platform Storage & APIs
+  - item: Google Cloud Platform
   - item: ChatGPT
 
 design:
