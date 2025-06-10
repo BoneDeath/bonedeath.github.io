@@ -1,44 +1,53 @@
-- company: Upstatement
-  url: https://www.upstatement.com/
-  time: May 2018 - Present
-  position: Engineer
+- company: Blue Tech Innovation
+  url: https://www.bengkelprint.co.id/
+  time: Oct 2023 - Present
+  position: Head of IT Department
+  summary: >
+    Leading the IT team to align technology development with the company's roadmap.
+    Driving business process optimization through custom software solutions and efficient project management.
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
+- company: Bengkel Print (PT Berkarya Putra Inovasi)
+  url: https://www.bengkelprint.co.id/
+  time: Jan 2023 - Sep 2024
+  position: Front-End Developer & Web Developer (Contract)
+  summary: >
+    Developed responsive e-commerce platforms using Vue.js and TypeScript.
+    Built internal CMS tools and integrated SEO, e-commerce plugins, and WordPress-based features.
 
-- company: Apple Music
-  url: https://www.apple.com/music/
-  time: July - Dec 2017
-  position: UI Engineer Co-op
+- company: Bengkel Print (PT Berkarya Putra Inovasi)
+  url: https://www.bengkelprint.co.id/
+  time: May 2023 - Sep 2024
+  position: WordPress Developer
+  summary: >
+    Built and maintained WordPress-based sites with custom plugin integration and search engine optimization strategies.
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2017
-  position: Studio Developer
+- company: ESTOH Software Development
+  url: https://estoh.id/
+  time: Jan 2019 - Jan 2021
+  position: Senior Web Developer & Junior Flutter Developer
+  summary: >
+    Developed multi-platform applications using Flutter, Vue, and Capacitor.
+    Delivered cross-platform POS systems integrated with payment gateways and business process logic.
 
-- company: Starry
-  url: https://starry.com/
-  time: July - Dec 2016
-  position: Software Engineer Co-op
+- company: ESTOH Software Development
+  url: https://estoh.id/
+  time: Sep 2020 - Nov 2020
+  position: Junior Android Developer
+  summary: >
+    Developed POS and restaurant Android apps with payment gateway integrations and ensured high performance across devices.
 
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Jan - May 2016
-  position: HCI Teaching Assistant
+- company: ESTOH Software Development
+  url: https://estoh.id/
+  time: Jun 2020 - Nov 2020
+  position: Android Development Intern
+  summary: >
+    Assisted in developing basic mobile apps for Android. Focused on compatibility, UI/UX, and feature support across multiple devices.
 
-- company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  time: Jan 2016 - May 2017
-  position: President & Web Chair
+- company: Vocational High School (Teaching Role)
+  url: '#'
+  time: May 2018 - Mar 2020
+  position: Software Engineering Teacher & Lab Coordinator
+  summary: >
+    Taught web development fundamentals (HTML, CSS, JavaScript, PHP).
+    Managed computer lab infrastructure and organized nationwide online-based exams.
 
-- company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  time: July - Dec 2015
-  position: Creative Technologist Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Mar - May 2015
-  position: HCI Research Assistant
