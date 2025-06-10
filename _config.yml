@@ -3,7 +3,7 @@ name: M Hasanuddin
 title: M Hasanuddin | Web Developer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
 url: https://bonedeath.github.io/
-baseurl: ''
+baseurl: 'https://bonedeath.github.io/'
 email: mhasannudin300@gmail.com
 cover: https://bonedeath.github.io/img/og.png
 logo: https://bonedeath.github.io/img/emojis/technologist.png
